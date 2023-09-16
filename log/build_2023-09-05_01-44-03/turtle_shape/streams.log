@@ -1,0 +1,22 @@
+[0.570s] Invoking command in '/home/mohd_yasser1/Ros2_project/build/turtle_shape': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mohd_yasser1/Ros2_project/build/turtle_shape/build --no-deps install_data
+[0.791s] running develop
+[0.794s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.794s]   warnings.warn(
+[0.795s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.795s]   warnings.warn(
+[0.923s] running egg_info
+[0.923s] writing turtle_shape.egg-info/PKG-INFO
+[0.924s] writing dependency_links to turtle_shape.egg-info/dependency_links.txt
+[0.924s] writing entry points to turtle_shape.egg-info/entry_points.txt
+[0.924s] writing requirements to turtle_shape.egg-info/requires.txt
+[0.924s] writing top-level names to turtle_shape.egg-info/top_level.txt
+[0.926s] reading manifest file 'turtle_shape.egg-info/SOURCES.txt'
+[0.927s] writing manifest file 'turtle_shape.egg-info/SOURCES.txt'
+[0.928s] running build_ext
+[0.928s] Creating /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle-shape.egg-link (link to .)
+[0.929s] Installing shapeNode script to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/turtle_shape
+[0.930s] Installing turtleCommander script to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/turtle_shape
+[0.930s] 
+[0.930s] Installed /home/mohd_yasser1/Ros2_project/build/turtle_shape
+[0.930s] running install_data
+[0.956s] Invoked command in '/home/mohd_yasser1/Ros2_project/build/turtle_shape' returned '0': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mohd_yasser1/Ros2_project/build/turtle_shape/build --no-deps install_data

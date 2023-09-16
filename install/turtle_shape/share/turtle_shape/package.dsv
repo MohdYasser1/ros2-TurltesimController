@@ -1,0 +1,9 @@
+source;share/turtle_shape/hook/pythonpath.ps1
+source;share/turtle_shape/hook/pythonpath.dsv
+source;share/turtle_shape/hook/pythonpath.sh
+source;share/turtle_shape/hook/ament_prefix_path.ps1
+source;share/turtle_shape/hook/ament_prefix_path.dsv
+source;share/turtle_shape/hook/ament_prefix_path.sh
+source;../../build/turtle_shape/share/turtle_shape/hook/pythonpath_develop.ps1
+source;../../build/turtle_shape/share/turtle_shape/hook/pythonpath_develop.dsv
+source;../../build/turtle_shape/share/turtle_shape/hook/pythonpath_develop.sh

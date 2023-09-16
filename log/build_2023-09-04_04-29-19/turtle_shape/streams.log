@@ -1,0 +1,31 @@
+[0.500s] Invoking command in '/home/mohd_yasser1/Ros2_project/build/turtle_shape': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/mohd_yasser1/Ros2_project/build/turtle_shape/build
+[0.719s] running develop
+[0.719s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.719s]   warnings.warn(
+[0.720s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.720s]   warnings.warn(
+[0.871s] Invoked command in '/home/mohd_yasser1/Ros2_project/build/turtle_shape' returned '0': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/mohd_yasser1/Ros2_project/build/turtle_shape/build
+[0.872s] Invoking command in '/home/mohd_yasser1/Ros2_project/src/turtle_shape': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_shape build --build-base /home/mohd_yasser1/Ros2_project/build/turtle_shape/build install --record /home/mohd_yasser1/Ros2_project/build/turtle_shape/install.log --single-version-externally-managed
+[1.075s] running egg_info
+[1.076s] writing ../../build/turtle_shape/turtle_shape.egg-info/PKG-INFO
+[1.076s] writing dependency_links to ../../build/turtle_shape/turtle_shape.egg-info/dependency_links.txt
+[1.076s] writing entry points to ../../build/turtle_shape/turtle_shape.egg-info/entry_points.txt
+[1.076s] writing requirements to ../../build/turtle_shape/turtle_shape.egg-info/requires.txt
+[1.076s] writing top-level names to ../../build/turtle_shape/turtle_shape.egg-info/top_level.txt
+[1.078s] reading manifest file '../../build/turtle_shape/turtle_shape.egg-info/SOURCES.txt'
+[1.078s] writing manifest file '../../build/turtle_shape/turtle_shape.egg-info/SOURCES.txt'
+[1.079s] running build
+[1.079s] running build_py
+[1.079s] running install
+[1.079s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.079s]   warnings.warn(
+[1.079s] running install_lib
+[1.080s] running install_data
+[1.081s] running install_egg_info
+[1.082s] removing '/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape-0.0.0-py3.10.egg-info' (and everything under it)
+[1.083s] Copying ../../build/turtle_shape/turtle_shape.egg-info to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape-0.0.0-py3.10.egg-info
+[1.084s] running install_scripts
+[1.103s] Installing shapeNode script to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/turtle_shape
+[1.103s] Installing turtleCommander script to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/turtle_shape
+[1.103s] writing list of installed files to '/home/mohd_yasser1/Ros2_project/build/turtle_shape/install.log'
+[1.126s] Invoked command in '/home/mohd_yasser1/Ros2_project/src/turtle_shape' returned '0': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_shape build --build-base /home/mohd_yasser1/Ros2_project/build/turtle_shape/build install --record /home/mohd_yasser1/Ros2_project/build/turtle_shape/install.log --single-version-externally-managed

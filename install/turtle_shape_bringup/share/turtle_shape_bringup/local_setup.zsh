@@ -1,0 +1,1 @@
+/home/mohd_yasser1/Ros2_project/build/turtle_shape_bringup/ament_cmake_environment_hooks/local_setup.zsh

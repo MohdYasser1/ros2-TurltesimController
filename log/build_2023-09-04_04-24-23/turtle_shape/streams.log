@@ -1,0 +1,44 @@
+[0.553s] Invoking command in '/home/mohd_yasser1/Ros2_project/build/turtle_shape': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/mohd_yasser1/Ros2_project/build/turtle_shape/build
+[0.769s] running develop
+[0.770s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.770s]   warnings.warn(
+[0.771s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.772s]   warnings.warn(
+[0.901s] Removing /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle-shape.egg-link (link to .)
+[0.929s] Invoked command in '/home/mohd_yasser1/Ros2_project/build/turtle_shape' returned '0': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/mohd_yasser1/Ros2_project/build/turtle_shape/build
+[0.932s] Invoking command in '/home/mohd_yasser1/Ros2_project/src/turtle_shape': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_shape build --build-base /home/mohd_yasser1/Ros2_project/build/turtle_shape/build install --record /home/mohd_yasser1/Ros2_project/build/turtle_shape/install.log --single-version-externally-managed
+[1.132s] running egg_info
+[1.132s] writing ../../build/turtle_shape/turtle_shape.egg-info/PKG-INFO
+[1.132s] writing dependency_links to ../../build/turtle_shape/turtle_shape.egg-info/dependency_links.txt
+[1.133s] writing entry points to ../../build/turtle_shape/turtle_shape.egg-info/entry_points.txt
+[1.133s] writing requirements to ../../build/turtle_shape/turtle_shape.egg-info/requires.txt
+[1.133s] writing top-level names to ../../build/turtle_shape/turtle_shape.egg-info/top_level.txt
+[1.136s] reading manifest file '../../build/turtle_shape/turtle_shape.egg-info/SOURCES.txt'
+[1.137s] writing manifest file '../../build/turtle_shape/turtle_shape.egg-info/SOURCES.txt'
+[1.138s] running build
+[1.138s] running build_py
+[1.139s] creating /home/mohd_yasser1/Ros2_project/build/turtle_shape/build
+[1.139s] creating /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib
+[1.139s] creating /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib/turtle_shape
+[1.140s] copying turtle_shape/shapeNode.py -> /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib/turtle_shape
+[1.140s] copying turtle_shape/__init__.py -> /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib/turtle_shape
+[1.140s] copying turtle_shape/turtleCommander.py -> /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib/turtle_shape
+[1.140s] running install
+[1.141s] running install_lib
+[1.141s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.141s]   warnings.warn(
+[1.141s] creating /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape
+[1.142s] copying /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib/turtle_shape/shapeNode.py -> /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape
+[1.142s] copying /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib/turtle_shape/__init__.py -> /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape
+[1.142s] copying /home/mohd_yasser1/Ros2_project/build/turtle_shape/build/lib/turtle_shape/turtleCommander.py -> /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape
+[1.143s] byte-compiling /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape/shapeNode.py to shapeNode.cpython-310.pyc
+[1.144s] byte-compiling /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape/__init__.py to __init__.cpython-310.pyc
+[1.144s] byte-compiling /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape/turtleCommander.py to turtleCommander.cpython-310.pyc
+[1.144s] running install_data
+[1.145s] running install_egg_info
+[1.146s] Copying ../../build/turtle_shape/turtle_shape.egg-info to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle_shape-0.0.0-py3.10.egg-info
+[1.148s] running install_scripts
+[1.165s] Installing shapeNode script to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/turtle_shape
+[1.165s] Installing turtleCommander script to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/turtle_shape
+[1.166s] writing list of installed files to '/home/mohd_yasser1/Ros2_project/build/turtle_shape/install.log'
+[1.187s] Invoked command in '/home/mohd_yasser1/Ros2_project/src/turtle_shape' returned '0': PYTHONPATH=/home/mohd_yasser1/Ros2_project/build/turtle_shape/prefix_override:/home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtle_shape build --build-base /home/mohd_yasser1/Ros2_project/build/turtle_shape/build install --record /home/mohd_yasser1/Ros2_project/build/turtle_shape/install.log --single-version-externally-managed

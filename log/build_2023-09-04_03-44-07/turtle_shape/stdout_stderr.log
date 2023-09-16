@@ -1,0 +1,19 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing turtle_shape.egg-info/PKG-INFO
+writing dependency_links to turtle_shape.egg-info/dependency_links.txt
+writing entry points to turtle_shape.egg-info/entry_points.txt
+writing requirements to turtle_shape.egg-info/requires.txt
+writing top-level names to turtle_shape.egg-info/top_level.txt
+reading manifest file 'turtle_shape.egg-info/SOURCES.txt'
+writing manifest file 'turtle_shape.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/python3.10/site-packages/turtle-shape.egg-link (link to .)
+Installing shapeNode script to /home/mohd_yasser1/Ros2_project/install/turtle_shape/lib/turtle_shape
+
+Installed /home/mohd_yasser1/Ros2_project/build/turtle_shape
+running install_data
